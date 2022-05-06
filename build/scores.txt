@@ -53,3 +53,4 @@ FÁCIL;Julia;MUITO ;3
 FÁCIL;Julia;;-4
 FÁCIL;Marcelo;;-4
 FÁCIL;Juliana;SENDO ;3
+MÉDIO;Stefane;;0
