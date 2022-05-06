@@ -2,6 +2,8 @@
 
 Desenvolvimento de um jogo da forca em C++ para o trabalho da unidade 1 da disciplina de **Linguagem de Programação I**
 
+![Screenshot](Screenshot_149.png)
+
 **Alunas**:
 - Juliana Freire Pequeno de Santiago Carvalho
 - Stefane de Assis Orichuela
