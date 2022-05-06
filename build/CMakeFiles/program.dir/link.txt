@@ -1,0 +1,1 @@
+/nix/store/4xs1xyj8728yvh9y5v6ji819kwgfy2fv-gcc-wrapper-10.3.0/bin/g++ -rdynamic CMakeFiles/program.dir/src/main.cpp.o CMakeFiles/program.dir/src/Forca.cpp.o -o program 

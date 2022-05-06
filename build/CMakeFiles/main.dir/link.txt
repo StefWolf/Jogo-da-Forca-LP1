@@ -1,0 +1,1 @@
+clang++ -rdynamic CMakeFiles/main.dir/src/Forca.cpp.o CMakeFiles/main.dir/src/main.cpp.o -o main 
